@@ -1,2 +1,2 @@
 # Oracle-SQL
-#Data_Analitics
+# Data_Analitics
